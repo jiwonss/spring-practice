@@ -12,7 +12,7 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 import java.util.Arrays;
 import java.util.List;
 
-public class main {
+public class Main {
     public static void main(String[] args) throws JsonProcessingException {
 
         ObjectMapper objectMapper = new ObjectMapper();
